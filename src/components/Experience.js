@@ -1,9 +1,9 @@
 import React from "react";
-import html from "../images/html.jpg";
-import css from "../images/css.jpg";
-import javascript from "../images/javascript.png";
-import react from "../images/react.png";
-import Tailwind from "../images/Tailwind.jpg";
+import html from "../images/html.png";
+import css3 from "../images/css3.png";
+import js from "../images/js.png";
+import reactjs from "../images/reactjs.png";
+import Tailwind1 from "../images/Tailwind1.png";
 import github from "../images/github.jpg";
 
 
@@ -18,25 +18,25 @@ const Experience = () => {
     },
     {
       id: 2,
-      src: css,
+      src: css3,
       title: "CSS",
       style: "shadow-blue-500",
     },
     {
       id: 3,
-      src: javascript,
+      src: js,
       title: "JavaScript",
       style: "shadow-yellow-500",
     },
     {
       id: 4,
-      src: react,
+      src: reactjs,
       title: "React",
       style: "shadow-blue-600",
     },
     {
       id: 5,
-      src: Tailwind,
+      src: Tailwind1,
       title: "Tailwind",
       style: "shadow-sky-400 ",
     },
